@@ -1,0 +1,32 @@
+@media (max-width: 800px) {
+    .filtros {
+        display:none;
+    }
+}
+
+#carimg{
+  width: 100%; 
+  height: auto;
+  }
+  
+.card {
+    width: 300px;
+    height: 500px;
+    margin: auto;
+}
+
+.card-img-top {
+    height: auto;
+    width: 100%;
+}
+
+
+.cu {
+    width: 230px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
